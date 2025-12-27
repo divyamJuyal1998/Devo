@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\Devo\\HelloWorldApp\\wwwroot\\css",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "C:\\Projects\\Devo\\HelloWorldApp\\wwwroot\\js",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HelloWorldApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.HelloWorldApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.HelloWorldApp.props",
+      "PackagePath": "build\\HelloWorldApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.HelloWorldApp.props",
+      "PackagePath": "buildMultiTargeting\\HelloWorldApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.HelloWorldApp.props",
+      "PackagePath": "buildTransitive\\HelloWorldApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
